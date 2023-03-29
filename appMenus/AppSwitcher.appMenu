@@ -148,4 +148,8 @@
         <name>copadoconnect__Copado_Connect</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Vehicle_Tracker</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
